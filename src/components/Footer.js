@@ -147,7 +147,7 @@ export default function Footer() {
               <li><span className="footer-col-link">📍 Udaipur, Rajasthan</span></li>
               <li><span className="footer-col-link">📞 +91 XXXXXXXXXX</span></li>
               <li><span className="footer-col-link">✉️ hello@luxethread.in</span></li>
-              <li><span className="footer-col-link">⏰ Mon–Sat, 10am–7pm</span></li>
+              {/* <li><span className="footer-col-link">⏰ Mon–Sat, 10am–7pm</span></li> */}
             </ul>
           </div>
 
